@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Exit Door
+  - Entrance Door
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Shot
+  - Player
+  - Pickups
+  - Boss
+  - Boss Shot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2445829463
+    locked: 0
+  - name: Ground
+    uniqueID: 1538746023
+    locked: 0
+  - name: Player
+    uniqueID: 2621810305
+    locked: 0
+  - name: LevelDesign
+    uniqueID: 2021398175
+    locked: 0
+  - name: Item
+    uniqueID: 2900900667
+    locked: 0
